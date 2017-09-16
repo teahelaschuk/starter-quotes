@@ -7,3 +7,4 @@ Date: 2017-09-14
     - added avatar image (public/pix/katya.jpg)
     - added quote entry into application/models/Quotes.php
     - Added a tooltip when picture is moused over
+    - Added quote display page
