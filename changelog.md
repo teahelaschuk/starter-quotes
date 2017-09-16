@@ -6,4 +6,6 @@ Date: 2017-09-14
 ### Added
     - added avatar image (public/pix/katya.jpg)
     - added quote entry into application/models/Quotes.php
+
     - Added a tooltip when picture is moused over
+    - Added a feature branch
