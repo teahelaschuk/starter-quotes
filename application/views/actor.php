@@ -14,7 +14,6 @@
     if(isset($_POST['click'])) {
     
     ?>
-<!--this is for display in table-->
 <table><tr><td><?php echo "I am: " . "{who}" . "<br>"; ?></td></tr></table>
     <?php
         echo "I played: " . "{role}" . "<br>";
