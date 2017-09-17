@@ -5,3 +5,17 @@
         </a>
     </div>
 </div>
+<h2>Who am I?</h2>
+<form action="" method="post">
+    <button name="click" class="click">Click me to find out!</button>
+</form>
+
+    <?php
+    if(isset($_POST['click'])) {
+    
+    ?>
+<table><tr><td><?php echo "I am: " . "{who}" . "<br>"; ?></td></tr></table>
+    <?php
+        echo "I played: " . "{role}" . "<br>";
+        echo "I said: " . "{what}" . "<br>";
+    }
