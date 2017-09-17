@@ -8,4 +8,4 @@ Date: 2017-09-14
     - added quote entry into application/models/Quotes.php
 
     - Added a tooltip when picture is moused over
-    - Added a feature branch
+    - Added quote display page
